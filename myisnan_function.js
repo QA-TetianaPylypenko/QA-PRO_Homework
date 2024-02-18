@@ -1,3 +1,5 @@
+// Написати свою реалізацію функції isNaN
+
 function myIsNaN(value) {
   if (value !== value) {
     return true;
